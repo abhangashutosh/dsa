@@ -1,0 +1,7 @@
+
+^
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(„­µ‘ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ž†Ù¨
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ãÉ§¸ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯ô¢ô

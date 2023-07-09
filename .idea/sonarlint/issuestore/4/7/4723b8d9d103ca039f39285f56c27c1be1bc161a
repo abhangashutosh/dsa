@@ -1,0 +1,31 @@
+
+i
+java:S1192"LDefine a constant instead of duplicating this literal "Percentage " 6 times.(öŸå8×Ìˆˆ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öŸå8­×Ìˆˆ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(º­û’8­×Ìˆˆ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öŸå8®×Ìˆˆ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù˜Æµ8®×Ìˆˆ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öŸå8®×Ìˆˆ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—‡…ıÿÿÿÿ8®×Ìˆˆ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öŸå8®×Ìˆˆ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(É‚ÔÔùÿÿÿÿ8®×Ìˆˆ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öŸå8®×Ìˆˆ1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(‹òã€8¯×Ìˆˆ1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(öŸå8¯×Ìˆˆ1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Ö»©â8¯×Ìˆˆ1
+^
+java:S1659)"ADeclare "sub2" and all following declarations on a separate line.(„Û†‹8°×Ìˆˆ1
+A
+java:S1659*"Declare "i" on a separate line.(†ùÎ›ùÿÿÿÿ8°×Ìˆˆ1
+F
+java:S1481)")Remove this unused "sub1" local variable.(„Û†‹8›ÕÎˆˆ1
+F
+java:S1481)")Remove this unused "sub2" local variable.(„Û†‹8›ÕÎˆˆ1
+F
+java:S1481)")Remove this unused "sub3" local variable.(„Û†‹8›ÕÎˆˆ1
+F
+java:S1481)")Remove this unused "sub4" local variable.(„Û†‹8›ÕÎˆˆ1
+F
+java:S1481)")Remove this unused "sub5" local variable.(„Û†‹8›ÕÎˆˆ1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(„ÎÀ˜ıÿÿÿÿ8´×Ìˆˆ1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ÕŒé8Ğ´Ôˆˆ1
